@@ -4,7 +4,7 @@ this is a project from my cs 4476 computer vision class.
 
 my implementation includes three main algorithms:
 
-  (i) harris corner detector to detect interest points in an image
+<tab>(i) harris corner detector to detect interest points in an image
   
   (ii) SIFT-like feature description returning 128-dimensional feature vectors
   
